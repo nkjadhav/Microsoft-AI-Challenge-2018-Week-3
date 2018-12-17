@@ -3,7 +3,7 @@
 Aim of this challenge was to find a cartoon character (refered as Waldo) from bunch of other cartoon characters given in challenge images. Participents were free to use any of the available techniques to find out the location of character in image.
 
 
-![alt text]("https://github.com/nkjadhav/Microsoft-AI-Challenge-2018-Week-3/blob/master/Announcement%20LinkedIn%20Winner.png" width="200" height="400")
+![alt text](https://github.com/nkjadhav/Microsoft-AI-Challenge-2018-Week-3/blob/master/Announcement%20LinkedIn%20Winner.png | width=100)
 
       
 
